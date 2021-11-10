@@ -75,7 +75,7 @@ public class GuessingGame implements ActionListener {
             highLow.setText("");
             lastGuess.setText("");
     }
-    }
+  }
 
 }
 
